@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/fill_the_vxid/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://www.facebook.com/4bunnyy/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a href="https://open.spotify.com/user/alex4ex?si=e68f986601bb44d5" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
-<a href="https://band.link/fill_the_vxid" target="_blank"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2Fbandlink%2F&psig=AOvVaw0kIhm3hZm_2MLW2ST5HWsP&ust=1689932821419000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIjizb2AnYADFQAAAAAdAAAAABAE" alt="BandLink to my music"></a>
+<a href="https://band.link/fill_the_vxid" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=black" alt="BandLink to my music"></a>
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/track/045sSZpWZoaD7XneRYXUUS)
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/playlist/518xLU2suX26TiPP1WDNBM?si=7d5388f178584a97)

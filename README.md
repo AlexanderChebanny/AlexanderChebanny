@@ -26,7 +26,8 @@ Here are some ideas to get you started:
 - Chatbots
 - Electronic Music writing
 - Notion, Obsidian, journaling
-Curious about:
+
+🔮 Also excited about:
 - Crypto/Blockchain: investment and development
 - VST plugin developement 
 
